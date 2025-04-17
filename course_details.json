@@ -3,7 +3,7 @@
     "course_id": 0,
     "japanese": "\u79cb\u540d\u6e56\uff0f\u5de6\u5468\u308a",
     "english": "LakeakinaCCW",
-    "english_group": "lakeakina",
+    "english_group": "lake",
     "chinese_group": "\u6e56",
     "legend_time": "2'21\"300",
     "master_plus_time": "2'23\"200",
@@ -16,7 +16,7 @@
     "course_id": 2,
     "japanese": "\u79cb\u540d\u6e56\uff0f\u53f3\u5468\u308a",
     "english": "LakeakinaCW",
-    "english_group": "lakeakina",
+    "english_group": "lake",
     "chinese_group": "\u6e56",
     "legend_time": "2'21\"000",
     "master_plus_time": "2'23\"200",
@@ -570,5 +570,31 @@
     "professional_time": "3'14\"000",
     "expert_time": "3'26\"000",
     "specialist_time": "3'38\"000"
+  },
+  {
+    "course_id": 88,
+    "japanese": "\u7893\u6c37\uff08\u96ea\uff09\uff0f\u5de6\u5468\u308a",
+    "english": "UsuisnowCCW",
+    "english_group": "usuisnow",
+    "chinese_group": "\u7893\u96ea",
+    "legend_time": "3'12\"000",
+    "master_plus_time": "3'16\"000",
+    "master_time": "3'18\"000",
+    "professional_time": "3'22\"000",
+    "expert_time": "3'26\"000",
+    "specialist_time": "3'30\"000"
+  },
+  {
+    "course_id": 90,
+    "japanese": "\u7893\u6c37\uff08\u96ea\uff09\uff0f\u53f3\u5468\u308a",
+    "english": "UsuisnowCW",
+    "english_group": "usuisnow",
+    "chinese_group": "\u7893\u96ea",
+    "legend_time": "3'11\"500",
+    "master_plus_time": "3'16\"000",
+    "master_time": "3'18\"000",
+    "professional_time": "3'22\"000",
+    "expert_time": "3'26\"000",
+    "specialist_time": "3'30\"000"
   }
 ]
