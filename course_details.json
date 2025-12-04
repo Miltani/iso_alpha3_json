@@ -596,5 +596,31 @@
     "professional_time": "3'22\"000",
     "expert_time": "3'26\"000",
     "specialist_time": "3'30\"000"
+  },
+  {
+    "course_id": 92,
+    "japanese": "\u79cb\u540d\uff08\u96e8\uff09\uff0f\u4e0b\u308a",
+    "english": "AkinarainDH",
+    "english_group": "akinarain",
+    "chinese_group": "\u79cb\u96e8",
+    "legend_time": "3'13\"000",
+    "master_plus_time": "3'15\"000",
+    "master_time": "3'17\"000",
+    "professional_time": "3'25\"000",
+    "expert_time": "3'30\"000",
+    "specialist_time": "3'35\"000"
+  },
+  {
+    "course_id": 94,
+    "japanese": "\u79cb\u540d\uff08\u96e8\uff09\uff0f\u4e0a\u308a",
+    "english": "AkinarainUH",
+    "english_group": "akinarain",
+    "chinese_group": "\u79cb\u96e8",
+    "legend_time": "3'16\"000",
+    "master_plus_time": "3'18\"000",
+    "master_time": "3'22\"000",
+    "professional_time": "3'30\"000",
+    "expert_time": "3'32\"000",
+    "specialist_time": "3'35\"000"
   }
 ]
