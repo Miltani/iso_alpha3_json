@@ -10,7 +10,7 @@
     "master_time": "2'25\"000",
     "professional_time": "2'26\"000",
     "expert_time": "2'30\"000",
-    "specialist_time": "2'33\"000"
+    "specialist_time": "2'35\"000"
   },
   {
     "course_id": 2,
@@ -23,7 +23,7 @@
     "master_time": "2'25\"000",
     "professional_time": "2'26\"000",
     "expert_time": "2'30\"000",
-    "specialist_time": "2'33\"000"
+    "specialist_time": "2'35\"000"
   },
   {
     "course_id": 4,
@@ -49,7 +49,7 @@
     "master_time": "2'55\"500",
     "professional_time": "2'58\"000",
     "expert_time": "3'05\"000",
-    "specialist_time": "3'14\"000"
+    "specialist_time": "3'18\"000"
   },
   {
     "course_id": 8,
@@ -62,7 +62,7 @@
     "master_time": "2'48\"500",
     "professional_time": "2'51\"000",
     "expert_time": "2'58\"000",
-    "specialist_time": "3'08\"000"
+    "specialist_time": "3'12\"000"
   },
   {
     "course_id": 10,
@@ -88,7 +88,7 @@
     "master_time": "3'16\"000",
     "professional_time": "3'18\"000",
     "expert_time": "3'25\"000",
-    "specialist_time": "3'28\"000"
+    "specialist_time": "3'36\"000"
   },
   {
     "course_id": 14,
@@ -101,7 +101,7 @@
     "master_time": "3'22\"000",
     "professional_time": "3'25\"000",
     "expert_time": "3'32\"000",
-    "specialist_time": "3'36\"000"
+    "specialist_time": "3'44\"000"
   },
   {
     "course_id": 16,
@@ -114,7 +114,7 @@
     "master_time": "3'22\"500",
     "professional_time": "3'25\"500",
     "expert_time": "3'32\"000",
-    "specialist_time": "3'45\"000"
+    "specialist_time": "3'47\"000"
   },
   {
     "course_id": 18,
@@ -140,7 +140,7 @@
     "master_time": "3'04\"000",
     "professional_time": "3'06\"000",
     "expert_time": "3'12\"000",
-    "specialist_time": "3'27\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 22,
@@ -166,7 +166,7 @@
     "master_time": "3'06\"000",
     "professional_time": "3'08\"000",
     "expert_time": "3'15\"000",
-    "specialist_time": "3'30\"000"
+    "specialist_time": "3'50\"000"
   },
   {
     "course_id": 26,
@@ -179,7 +179,7 @@
     "master_time": "3'06\"000",
     "professional_time": "3'08\"000",
     "expert_time": "3'15\"000",
-    "specialist_time": "3'30\"000"
+    "specialist_time": "3'50\"000"
   },
   {
     "course_id": 28,
@@ -244,7 +244,7 @@
     "master_time": "3'08\"000",
     "professional_time": "3'10\"000",
     "expert_time": "3'18\"000",
-    "specialist_time": "3'26\"000"
+    "specialist_time": "3'28\"000"
   },
   {
     "course_id": 38,
@@ -257,7 +257,7 @@
     "master_time": "3'08\"000",
     "professional_time": "3'10\"000",
     "expert_time": "3'18\"000",
-    "specialist_time": "3'26\"000"
+    "specialist_time": "3'28\"000"
   },
   {
     "course_id": 40,
@@ -270,7 +270,7 @@
     "master_time": "3'06\"500",
     "professional_time": "3'09\"000",
     "expert_time": "3'16\"000",
-    "specialist_time": "3'26\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 42,
@@ -296,7 +296,7 @@
     "master_time": "3'05\"000",
     "professional_time": "3'07\"000",
     "expert_time": "3'15\"000",
-    "specialist_time": "3'22\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 46,
@@ -309,7 +309,7 @@
     "master_time": "3'05\"000",
     "professional_time": "3'07\"000",
     "expert_time": "3'15\"000",
-    "specialist_time": "3'22\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 48,
@@ -387,7 +387,7 @@
     "master_time": "2'58\"000",
     "professional_time": "3'01\"000",
     "expert_time": "3'10\"000",
-    "specialist_time": "3'28\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 60,
@@ -478,7 +478,7 @@
     "master_time": "3'08\"000",
     "professional_time": "3'12\"000",
     "expert_time": "3'20\"000",
-    "specialist_time": "3'27\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 74,
@@ -491,7 +491,7 @@
     "master_time": "3'08\"000",
     "professional_time": "3'12\"000",
     "expert_time": "3'18\"000",
-    "specialist_time": "3'27\"000"
+    "specialist_time": "3'30\"000"
   },
   {
     "course_id": 76,
@@ -605,10 +605,10 @@
     "chinese_group": "\u79cb\u96e8",
     "legend_time": "3'13\"000",
     "master_plus_time": "3'15\"000",
-    "master_time": "3'17\"000",
+    "master_time": "3'18\"000",
     "professional_time": "3'27\"000",
-    "expert_time": "3'30\"000",
-    "specialist_time": "3'35\"000"
+    "expert_time": "3'38\"000",
+    "specialist_time": "3'45\"000"
   },
   {
     "course_id": 94,
@@ -620,7 +620,7 @@
     "master_plus_time": "3'18\"000",
     "master_time": "3'22\"000",
     "professional_time": "3'30\"000",
-    "expert_time": "3'32\"000",
-    "specialist_time": "3'35\"000"
+    "expert_time": "3'40\"000",
+    "specialist_time": "3'50\"000"
   }
 ]
