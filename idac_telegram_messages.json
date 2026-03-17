@@ -1,50 +1,38 @@
 [
   {
-    "id": 29,
     "event_id": 7303,
     "chat_id": -1002236892283,
     "topic_id": 12798,
-    "message_id": 14237,
-    "posted_at": "2026-02-07T20:17:15.612439+00:00"
+    "message_id": 14237
   },
   {
-    "id": 30,
     "event_id": 7348,
     "chat_id": -1002236892283,
     "topic_id": 12798,
-    "message_id": 14238,
-    "posted_at": "2026-02-07T20:17:20.228753+00:00"
+    "message_id": 14238
   },
   {
-    "id": 31,
     "event_id": -1,
     "chat_id": -1002236892283,
     "topic_id": 14460,
-    "message_id": 14532,
-    "posted_at": "2026-03-17T08:17:48.367949+00:00"
+    "message_id": 14532
   },
   {
-    "id": 768,
     "event_id": 7432,
     "chat_id": -1002236892283,
     "topic_id": 12798,
-    "message_id": 14797,
-    "posted_at": "2026-02-18T20:17:14.768362+00:00"
+    "message_id": 14797
   },
   {
-    "id": 1326,
     "event_id": 7386,
     "chat_id": -1002236892283,
     "topic_id": 12798,
-    "message_id": 14944,
-    "posted_at": "2026-02-25T20:17:25.309111+00:00"
+    "message_id": 14944
   },
   {
-    "id": 2362,
     "event_id": 7541,
     "chat_id": -1002236892283,
     "topic_id": 12798,
-    "message_id": 15158,
-    "posted_at": "2026-03-10T20:17:22.255726+00:00"
+    "message_id": 15158
   }
 ]
