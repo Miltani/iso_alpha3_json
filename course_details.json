@@ -109,7 +109,7 @@
     "english": "IrohazakaDH",
     "english_group": "irohazaka",
     "chinese_group": "\u4f0a\u5442",
-    "legend_time": "3'13\"000",
+    "legend_time": "3'13\"500",
     "master_plus_time": "3'17\"500",
     "master_time": "3'22\"500",
     "professional_time": "3'25\"500",
@@ -122,7 +122,7 @@
     "english": "IrohazakaUH",
     "english_group": "irohazaka",
     "chinese_group": "\u4f0a\u5442",
-    "legend_time": "3'20\"000",
+    "legend_time": "3'21\"000",
     "master_plus_time": "3'25\"000",
     "master_time": "3'31\"000",
     "professional_time": "3'34\"500",
@@ -622,5 +622,31 @@
     "professional_time": "3'30\"000",
     "expert_time": "3'38\"000",
     "specialist_time": "3'50\"000"
+  },
+  {
+    "course_id": 96,
+    "japanese": "\u3044\u308d\u306f\u5742\uff08\u96e8\uff09\uff0f\u4e0b\u308a",
+    "english": "IrorainDH",
+    "english_group": "irorain",
+    "chinese_group": "\u4f0a\u96e8",
+    "legend_time": "3'15\"500",
+    "master_plus_time": "3'19\"000",
+    "master_time": "3'22\"000",
+    "professional_time": "3'26\"000",
+    "expert_time": "5'00\"000",
+    "specialist_time": "6'00\"000"
+  },
+  {
+    "course_id": 98,
+    "japanese": "\u3044\u308d\u306f\u5742\uff08\u96e8\uff09\uff0f\u9006\u8d70",
+    "english": "IrorainREV",
+    "english_group": "irorain",
+    "chinese_group": "\u4f0a\u96e8",
+    "legend_time": "3'23\"000",
+    "master_plus_time": "3'27\"000",
+    "master_time": "3'30\"500",
+    "professional_time": "3'37\"000",
+    "expert_time": "5'00\"000",
+    "specialist_time": "6'00\"000"
   }
 ]
