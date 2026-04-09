@@ -1,39 +1,9 @@
 [
   {
-    "event_id": 7303,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 14237
-  },
-  {
-    "event_id": 7348,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 14238
-  },
-  {
     "event_id": -1,
     "chat_id": -1002236892283,
     "topic_id": 14460,
     "message_id": 14532
-  },
-  {
-    "event_id": 7432,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 14797
-  },
-  {
-    "event_id": 7541,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 15158
-  },
-  {
-    "event_id": 7392,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 15231
   },
   {
     "event_id": 7394,
