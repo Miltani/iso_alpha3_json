@@ -6,12 +6,6 @@
     "message_id": 14532
   },
   {
-    "event_id": 8151,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18274
-  },
-  {
     "event_id": 8160,
     "chat_id": -1002236892283,
     "topic_id": 12798,
@@ -22,5 +16,23 @@
     "chat_id": -1002236892283,
     "topic_id": 12798,
     "message_id": 18581
+  },
+  {
+    "event_id": 8162,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 18818
+  },
+  {
+    "event_id": 8168,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 18819
+  },
+  {
+    "event_id": 8170,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 18820
   }
 ]
