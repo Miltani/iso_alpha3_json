@@ -18,12 +18,6 @@
     "message_id": 18581
   },
   {
-    "event_id": 8162,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18818
-  },
-  {
     "event_id": 8168,
     "chat_id": -1002236892283,
     "topic_id": 12798,
@@ -34,5 +28,11 @@
     "chat_id": -1002236892283,
     "topic_id": 12798,
     "message_id": 18820
+  },
+  {
+    "event_id": 8164,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 19156
   }
 ]
