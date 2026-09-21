@@ -34,5 +34,11 @@
     "chat_id": -1002236892283,
     "topic_id": 12798,
     "message_id": 19356
+  },
+  {
+    "event_id": 8180,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 19432
   }
 ]
