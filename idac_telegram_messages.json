@@ -6,39 +6,15 @@
     "message_id": 14532
   },
   {
-    "event_id": 8160,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18580
-  },
-  {
-    "event_id": 8172,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18581
-  },
-  {
-    "event_id": 8168,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18819
-  },
-  {
-    "event_id": 8170,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 18820
-  },
-  {
-    "event_id": 8166,
-    "chat_id": -1002236892283,
-    "topic_id": 12798,
-    "message_id": 19356
-  },
-  {
     "event_id": 8180,
     "chat_id": -1002236892283,
     "topic_id": 12798,
     "message_id": 19432
+  },
+  {
+    "event_id": 8182,
+    "chat_id": -1002236892283,
+    "topic_id": 12798,
+    "message_id": 19551
   }
 ]
