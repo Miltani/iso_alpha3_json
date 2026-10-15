@@ -651,7 +651,7 @@
   },
   {
     "course_id": 100,
-    "japanese": "\u8d64\u57ce(\u96ea)\uff0f\u4e0b\u308a",
+    "japanese": "\u8d64\u57ce\uff08\u96ea\uff09\uff0f\u4e0b\u308a",
     "english": "AkagisnowDH",
     "english_group": "akagisnow",
     "chinese_group": "\u8d64\u96ea",
@@ -664,7 +664,7 @@
   },
   {
     "course_id": 102,
-    "japanese": "\u8d64\u57ce(\u96ea)\uff0f\u4e0a\u308a",
+    "japanese": "\u8d64\u57ce\uff08\u96ea\uff09\uff0f\u4e0a\u308a",
     "english": "AkagisnowUH",
     "english_group": "akagisnow",
     "chinese_group": "\u8d64\u96ea",
