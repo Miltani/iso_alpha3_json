@@ -1,11 +1,5 @@
 [
   {
-    "event_id": -1,
-    "chat_id": -1002236892283,
-    "topic_id": 14460,
-    "message_id": 14532
-  },
-  {
     "event_id": 8180,
     "chat_id": -1002236892283,
     "topic_id": 12798,
@@ -28,5 +22,11 @@
     "chat_id": -1002236892283,
     "topic_id": 12798,
     "message_id": 19848
+  },
+  {
+    "event_id": -1,
+    "chat_id": -1002236892283,
+    "topic_id": 14460,
+    "message_id": 19911
   }
 ]
